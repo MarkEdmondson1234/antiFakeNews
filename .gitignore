@@ -1,0 +1,11 @@
+.Rproj.user
+.Rproj
+.Rhistory
+.RData
+drat.sh
+.httr-oauth
+.httr-oauth-SUSPENDED
+inst/doc
+*.Rproj
+
+auth.json
