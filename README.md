@@ -2,7 +2,7 @@
 
 Propaganda is blamed for swaying elections in an age of social media.  Fake news is easily spread and amplified by bots, with an aim of getting mainstream media to report upon it, and to force a denial and so be associated with the target, to introduce an element of doubt where there is no real evidence or reason to do so. 
 
-Methods of proaganda can be traced from planning upon anonymous networks such as 4chan and reddit, execution by high frequency twitter bots and prominant opposition figures to doubt being expressed.  A recent example is a [USA alt-right groups campaigning against the French presidential election, #MacronLeaks](https://medium.com/@DFRLab/hashtag-campaign-macronleaks-4a3fb870c4e8).  
+Methods of propaganda can be traced from planning upon anonymous networks such as 4chan and reddit, execution by high frequency twitter bots and prominant opposition figures to doubt being expressed in mainstream media.  A recent example is a [USA alt-right groups campaigning against the French presidential election, #MacronLeaks](https://medium.com/@DFRLab/hashtag-campaign-macronleaks-4a3fb870c4e8).  
 
 A lot of campaigns are only interested in introducing enough doubt that pro-votes don't vote, the problem being that genuine corruption issues and made-up corruption issues can both equally influence people's opinions. 
 
