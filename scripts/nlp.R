@@ -62,4 +62,15 @@ gl_auth(json_file = "~/dev/auth/Mark Edmondson GDE-5c293af6adf9.json")
 # lots of API calls to find entity and sentiment
 nlp_source_tweet_history <- lapply(timeline_source$text, gl_nlp)
 saveRDS(nlp_source_tweet_history, file = "data/source_tweet_history_example.rds")
+
+nlp_source_tweet_history <- setNames(nlp_source_tweet_history, timeline_source$status_id)
+
+# source_tweet_nlp <- tibble::enframe(nlp_source_tweet_history, name = "status_id", value = "nlp")
+source_tweet_nlp <- tibble::enframe(nlp_source_tweet_history, name = "status_id", value = "nlp") %>% 
+  mutate(sentiment_mag = purrr::map_dbl(nlp, function(x) x$documentSentiment$magnitude),
+         sentiment_score = purrr::map_dbl(nlp, function(x) x$documentSentiment$score),
+         entities = purrr::map(nlp, function(x) x$entities),
+         entity_obj = purrr::map_chr(entities, function(x) paste(x$name, collapse = ","))) %>% 
+  tidyr::separate(entity_obj, into = c("e1","e2","e3","e4","e5","e6","e7","e8","e9","e10"), sep = ",", fill = "right")
+
 ## analyse sharers_source for topics, sentiment
