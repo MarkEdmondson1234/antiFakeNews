@@ -60,10 +60,15 @@ sharers_source <- lapply(url_sources_data[[1]]$search_data$user_id[1:5], tweet_h
 gl_auth(json_file = "~/dev/auth/Mark Edmondson GDE-5c293af6adf9.json")
 
 # lots of API calls to find entity and sentiment
-nlp_source_tweet_history <- lapply(timeline_source$text, gl_nlp)
+nlp_source_tweet_history <- lapply(timeline_source$text, gl_nlp, version = "v1beta2")
 saveRDS(nlp_source_tweet_history, file = "data/source_tweet_history_example.rds")
 
 nlp_source_tweet_history <- setNames(nlp_source_tweet_history, timeline_source$status_id)
+
+source_tweet_nlp <- tibble::enframe(nlp_source_tweet_history, name = "status_id", value = "nlp") %>% 
+  mutate(sentiment_mag = purrr::map_dbl(nlp, function(x) x$documentSentiment$magnitude),
+         sentiment_score = purrr::map_dbl(nlp, function(x) x$documentSentiment$score),
+         entities = purrr::map(nlp, function(x) x$entities))
 
 # source_tweet_nlp <- tibble::enframe(nlp_source_tweet_history, name = "status_id", value = "nlp")
 source_tweet_nlp <- tibble::enframe(nlp_source_tweet_history, name = "status_id", value = "nlp") %>% 
@@ -71,6 +76,38 @@ source_tweet_nlp <- tibble::enframe(nlp_source_tweet_history, name = "status_id"
          sentiment_score = purrr::map_dbl(nlp, function(x) x$documentSentiment$score),
          entities = purrr::map(nlp, function(x) x$entities),
          entity_obj = purrr::map_chr(entities, function(x) paste(x$name, collapse = ","))) %>% 
-  tidyr::separate(entity_obj, into = c("e1","e2","e3","e4","e5","e6","e7","e8","e9","e10"), sep = ",", fill = "right")
+  tidyr::separate(entity_obj, into = paste0("entity", 1:10), sep = ",", fill = "right")
 
-## analyse sharers_source for topics, sentiment
+## entity nlp
+entity_sentiments <- Reduce(rbind, lapply(nlp_source_tweet_history, 
+                                          function(x){
+                                           obj <- x$entities
+                                           data.frame(
+                                             name = obj$name,
+                                             type = obj$type,
+                                             # wikipedia_url = obj$metadata$wikipedia_url,
+                                             # mid = obj$metadata$midm,
+                                             salience = obj$salience,
+                                             sentiment_mag = obj$sentiment$magnitude,
+                                             sentiment_score = obj$sentiment$score,
+                                             stringsAsFactors = FALSE
+                                           )
+                                          } ))
+
+source_entity_score <- entity_sentiments %>% 
+  group_by(name, type) %>% 
+  summarise(
+    freq = n(),
+    sum_salience = round(sum(salience), 2),
+    mean_salience = round(mean(salience),2),
+    median_salience = round(median(salience),2),
+    sum_sentiment_score = round(sum(sentiment_score),2),
+    sum_sentiment_mag = round(sum(sentiment_mag),2),
+    avg_sentiment_product = round(sum(sentiment_score)*sum(sentiment_mag)/freq,2),
+    mean_sentiment_score = round(mean(sentiment_score),2),
+    mean_sentiment_mag = round(mean(sentiment_mag),2),
+    median_sentiment_score = median(sentiment_score),
+    median_sentiment_mag = median(sentiment_mag)
+  ) %>% 
+  filter(!is.na(name)) %>% 
+  arrange(desc(sum_sentiment_mag))
