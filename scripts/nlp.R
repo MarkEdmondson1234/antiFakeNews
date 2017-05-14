@@ -98,16 +98,18 @@ source_entity_score <- entity_sentiments %>%
   group_by(name, type) %>% 
   summarise(
     freq = n(),
-    sum_salience = round(sum(salience), 2),
-    mean_salience = round(mean(salience),2),
-    median_salience = round(median(salience),2),
     sum_sentiment_score = round(sum(sentiment_score),2),
     sum_sentiment_mag = round(sum(sentiment_mag),2),
     avg_sentiment_product = round(sum(sentiment_score)*sum(sentiment_mag)/freq,2),
     mean_sentiment_score = round(mean(sentiment_score),2),
     mean_sentiment_mag = round(mean(sentiment_mag),2),
     median_sentiment_score = median(sentiment_score),
-    median_sentiment_mag = median(sentiment_mag)
+    median_sentiment_mag = median(sentiment_mag),
+    sum_salience = round(sum(salience), 2),
+    mean_salience = round(mean(salience),2),
+    median_salience = round(median(salience),2)
   ) %>% 
-  filter(!is.na(name)) %>% 
+  filter(!is.na(name),
+         sum_sentiment_mag > 0.3,
+         type != "OTHER") %>% 
   arrange(desc(sum_sentiment_mag))
