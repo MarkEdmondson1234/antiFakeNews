@@ -53,8 +53,8 @@ extract_entities <- function(nlp_source_tweet_history) {
                                               data.frame(
                                                 name = obj$name,
                                                 type = obj$type,
-                                                wikipedia_url = if(!is.null(obj$metadata$wikipedia_url)) obj$metadata$wikipedia_url else "",
-                                                mid = if(!is.null(obj$metadata$midm)) obj$metadata$midm else "",
+                                                # wikipedia_url = if(!is.null(obj$metadata$wikipedia_url)) obj$metadata$wikipedia_url else "",
+                                                # mid = if(!is.null(obj$metadata$midm)) obj$metadata$midm else "",
                                                 salience = obj$salience,
                                                 sentiment_mag = obj$sentiment$magnitude,
                                                 sentiment_score = obj$sentiment$score,
@@ -85,16 +85,23 @@ extract_entities <- function(nlp_source_tweet_history) {
   source_entity_score
 }
 
-plot_entities <- function(x, freq_lower = 5, top_results = 20){
+plot_entities <- function(x, source_name, freq_lower = 5, top_results = 20){
   
   plot_me <- x %>% 
     filter(freq > freq_lower, grepl("^[[:upper:]]", name)) %>%
     head(top_results)
   
+  plot_name <- paste0("@", source_name, " - top sentiment for entities")
   ## visualise source topics sentiment
   gg <- ggplot(plot_me, aes(x = sum_sentiment_score, y = sum_sentiment_mag, label = name)) + theme_bw()
   gg <- gg + geom_label_repel()
-  gg + ggtitle("Top sentiment for entities", subtitle = paste("Frequency > ", freq_lower, ", Top ", top_results, "results"))
+  gg <- gg + ggtitle(plot_name, 
+                     subtitle = paste("Frequency > ", freq_lower, ", Top ", top_results, "results"))
+  pdf(file.path("plots", paste0(plot_name, ".pdf")))
+  print(gg)
+  dev.off()
+  
+  print(gg)
 }
 
 

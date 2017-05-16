@@ -35,8 +35,8 @@ saveRDS(nlp_sources_tweet_history, file = "data/nlp_sources_tweet_history.rds")
 ## extract the interesting entities from the source, ranked by sentiment magnitude
 ## these are the topics the source talks about the most and with most passion
 source_entities <- lapply(nlp_sources_tweet_history, extract_entities)
-
+source_entities <- setNames(source_entities, vapply(timeline_sources, function(x) unique(x$screen_name), character(1)))
 ## visualise source topics sentiment
-lapply(source_entities, plot_entities)
+lapply(names(source_entities), function(x) plot_entities(source_entities[[x]], x))
 
 # http://tidytextmining.com/ngrams.html
