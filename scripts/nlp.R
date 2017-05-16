@@ -1,9 +1,9 @@
 library(topicmodels)     ## Potential text analysis
 library(rtweet)          ## Download Tweets
-library(dplyr)           ## ETL
+library(tidyverse)           ## ETL
 library(googleLanguageR) ## Google NLP API
 library(ggplot2)         ## Visualistion
-library(ggrepel)
+library(ggrepel)         ## nice labels on ggplot
 source("scripts/functions.R")
 
 ## authentication for googleLanguageR via auth JSON you download from Google Project
@@ -18,27 +18,25 @@ url_sources <- c(input_source1, input_source2, input_source3)
 
 ## call twitter API to seach for tweets carrying the URL
 ## output includes $first_userId
-url_sources_data <- lapply(url_sources, get_source_data)
-url_sources_data <- setNames(url_sources_data, url_sources)
+url_sources_data <- get_source_data(url_sources)
 
 ## Call Twitter API for the history of tweets for the source user
 ## get the history of the first user who tweets the story
-timeline_source <- rtweet::tweet_history(url_sources_data[[1]]$first_userId)
-saveRDS(timeline_source, file = "data/timeline_source.rds")
+timeline_sources <- get_timeline_sources(url_sources_data)
 
 ## lots of API calls - fails when you hit twitter API limits, not really useable
 # sharers_source <- lapply(url_sources_data[[1]]$search_data$user_id[1:5], tweet_history)
 
-# For each tweet of the source user, analyse via NLP (2000 API calls)
-nlp_source_tweet_history <- lapply(timeline_source$text, googleLanguageR::gl_nlp, version = "v1beta2")
-nlp_source_tweet_history <- setNames(nlp_source_tweet_history, timeline_source$status_id)
-
+# For each tweet of the source user, analyse via NLP (2000 API calls per source)
+nlp_sources_tweet_history <- lapply(timeline_sources, function(x) get_nlp_api(x$text, x$status_id))
 ## save cache
-saveRDS(nlp_source_tweet_history, file = "data/source_tweet_history_example.rds")
+saveRDS(nlp_sources_tweet_history, file = "data/nlp_sources_tweet_history.rds")
 
 ## extract the interesting entities from the source, ranked by sentiment magnitude
 ## these are the topics the source talks about the most and with most passion
-source_entities <- extract_entities(nlp_source_tweet_history)
+source_entities <- lapply(nlp_sources_tweet_history, extract_entities)
 
 ## visualise source topics sentiment
-plot_entities(source_entities)
+lapply(source_entities, plot_entities)
+
+# http://tidytextmining.com/ngrams.html

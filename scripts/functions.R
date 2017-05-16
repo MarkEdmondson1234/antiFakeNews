@@ -2,36 +2,46 @@
 # users_data <- users_data(search_data)
 ## gather data on source/resharer
 tweet_history <- function(userId){
-  
-  req <- try(get_timeline(userId, n = 200))
+
+  req <- try(get_timeline(userId, n = 2000))
   if(assertthat::is.error(req)){
     warning("Twitter API error")
     return(NULL)
   }
+  req
 }
 
-## find the users who are the sources
-get_source_data <- function(url_source){
+get_timeline_sources <- function(url_sources_data){
+  assertthat::assert_that(!is.null(names(url_sources_data)))
   
-  search_data <- search_tweets(url_source, n = 1000)
+  out <- lapply(names(url_sources_data), function(x) tweet_history(url_sources_data[[x]]$first_userId))
+  saveRDS(out, file = "data/timeline_sources.rds")
+  out
+}
+## find the users who are the sources
+get_source_data_one <- function(url_source, n){
+  
+  search_data <- rtweet::search_tweets(url_source, n = n, type = "recent", include_rts = FALSE)
   users_data <- users_data(search_data)
   
-  ## get users mentioned, they may include originator
-  tweet_search_mentions_id <- unique(
-    Reduce(c, strsplit(search_data$mentions_user_id, split = " ")))
+  ## we want most RTs
+  most_rt <- search_data %>% 
+    filter(retweet_count > (max(retweet_count) - mean(retweet_count))) %>% 
+    filter(created_at == min(created_at)) %>% 
+    distinct()
   
-  tweet_search_mentions_id <- tweet_search_mentions_id[!is.na(tweet_search_mentions_id)]
-  
-  
-  first_tweeters <- search_data[search_data$created_at == min(search_data$created_at),]
-  ## some user_ids are bots that have less retweets
-  orignal <- first_tweeters[first_tweeters$retweet_count == max(first_tweeters$retweet_count), ]
-  
-  first_userId <- orignal[!duplicated(orignal$user_id),"user_id"]
+  first_userId <- most_rt$user_id
   
   list(first_userId = first_userId,
        search_data = search_data,
        users_data = users_data)
+}
+
+get_source_data <- function(x, n = 1000){
+  url_sources_data <- lapply(x, get_source_data_one, n = n)
+  out <- setNames(url_sources_data, x)
+  saveRDS(out, file = paste0("data/",Sys.Date(),"url_sources_data.rds"))
+  out
 }
 
 ## entity nlp
@@ -85,4 +95,10 @@ plot_entities <- function(x, freq_lower = 5, top_results = 20){
   gg <- ggplot(plot_me, aes(x = sum_sentiment_score, y = sum_sentiment_mag, label = name)) + theme_bw()
   gg <- gg + geom_label_repel()
   gg + ggtitle("Top sentiment for entities", subtitle = paste("Frequency > ", freq_lower, ", Top ", top_results, "results"))
+}
+
+
+get_nlp_api <- function(tweets, status_ids){
+  nlp_source_tweet_history <- lapply(tweets, googleLanguageR::gl_nlp, version = "v1beta2")
+  setNames(nlp_source_tweet_history, status_ids)
 }
