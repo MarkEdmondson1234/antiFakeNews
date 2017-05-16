@@ -62,6 +62,29 @@ bubble-reputation: +50
 * Analyse texts for entities and their sentiment towards them
 * Calculate affinity score of reshares of URLs, hashtags and text entities
 
+## Data so far
 
+Demo with these sources from the French election:
+
+```r
+## the inputs, these a news stories you want to verify reputation for
+input_source1 <- "https://www.theguardian.com/technology/2017/may/07/the-great-british-brexit-robbery-hijacked-democracy?CMP=twt_gu"
+input_source2 <- "http://www.thedailybeast.com/articles/2017/05/06/did-macron-outsmart-campaign-hackers"
+input_source3 <- "https://milo.yiannopoulos.net/2017/05/macron-gay-bitcoin/"
+
+url_sources <- c(input_source1, input_source2, input_source3)
+```
+
+Downloaded tweets, find influential users, then run their tweet history through the Google NLP API.
+
+Demo data saved as `rds` in data folder
+
+```
+timeline_sources <- readRDS("data/timeline_sources.rds")
+View(timeline_sources[[2]]) # etc.
+
+```
+
+Plots in folder of sentiment magnitude (how passionate) vs score (- is anti, + is positive)
 
 
