@@ -23,20 +23,20 @@ url_sources_data <- get_source_data(url_sources)
 ## Call Twitter API for the history of tweets for the source user
 ## get the history of the first user who tweets the story
 timeline_sources <- get_timeline_sources(url_sources_data)
-
+names(timeline_sources) <- url_sources
 ## lots of API calls - fails when you hit twitter API limits, not really useable
 # sharers_source <- lapply(url_sources_data[[1]]$search_data$user_id[1:5], tweet_history)
 
-# For each tweet of the source user, analyse via NLP (2000 API calls per source)
-nlp_sources_tweet_history <- lapply(timeline_sources, function(x) get_nlp_api(x$text, x$status_id))
+# Concatenate all the tweets in one document, do NLP on all of them at same time per source
+nlp_sources_tweet_history <- get_nlp_api(timeline_sources)
 ## save cache
 saveRDS(nlp_sources_tweet_history, file = "data/nlp_sources_tweet_history.rds")
 
 ## extract the interesting entities from the source, ranked by sentiment magnitude
 ## these are the topics the source talks about the most and with most passion
-source_entities <- lapply(nlp_sources_tweet_history, extract_entities)
-source_entities <- setNames(source_entities, vapply(timeline_sources, function(x) unique(x$screen_name), character(1)))
+source_entities <- lapply(names(nlp_sources_tweet_history), extract_entities, source = nlp_sources_tweet_history)
+source_entities <- setNames(source_entities, names(nlp_sources_tweet_history))
 ## visualise source topics sentiment
-lapply(names(source_entities), function(x) plot_entities(source_entities[[x]], x))
+lapply(names(source_entities), function(x) plot_entities(source_entities[[x]], source_name = x))
 
 # http://tidytextmining.com/ngrams.html

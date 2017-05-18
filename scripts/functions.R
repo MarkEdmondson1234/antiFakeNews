@@ -15,8 +15,9 @@ get_timeline_sources <- function(url_sources_data){
   assertthat::assert_that(!is.null(names(url_sources_data)))
   
   out <- lapply(names(url_sources_data), function(x) tweet_history(url_sources_data[[x]]$first_userId))
+  
   saveRDS(out, file = "data/timeline_sources.rds")
-  out
+  setNames(out, names(url_sources_data))
 }
 ## find the users who are the sources
 get_source_data_one <- function(url_source, n){
@@ -45,24 +46,23 @@ get_source_data <- function(x, n = 1000){
 }
 
 ## entity nlp
-extract_entities <- function(nlp_source_tweet_history) {
+extract_entities <- function(names, source) {
   library(dplyr)
-  entity_sentiments <- Reduce(rbind, lapply(nlp_source_tweet_history, 
-                                            function(x){
-                                              obj <- x$entities
-                                              data.frame(
-                                                name = obj$name,
-                                                type = obj$type,
-                                                # wikipedia_url = if(!is.null(obj$metadata$wikipedia_url)) obj$metadata$wikipedia_url else "",
-                                                # mid = if(!is.null(obj$metadata$midm)) obj$metadata$midm else "",
-                                                salience = obj$salience,
-                                                sentiment_mag = obj$sentiment$magnitude,
-                                                sentiment_score = obj$sentiment$score,
-                                                stringsAsFactors = FALSE
-                                              )
-                                            } ))
-  
-  source_entity_score <- entity_sentiments %>% 
+
+  x <- source[[names]]
+  obj <- x$entities
+  keep <- data.frame(
+    name = obj$name,
+    type = obj$type,
+    # wikipedia_url = if(!is.null(obj$metadata$wikipedia_url)) obj$metadata$wikipedia_url else "",
+    # mid = if(!is.null(obj$metadata$midm)) obj$metadata$midm else "",
+    salience = obj$salience,
+    sentiment_mag = obj$sentiment$magnitude,
+    sentiment_score = obj$sentiment$score,
+    stringsAsFactors = FALSE
+  )
+
+  source_entity_score <- keep %>% 
     group_by(name, type) %>% 
     summarise(
       freq = n(),
@@ -85,27 +85,35 @@ extract_entities <- function(nlp_source_tweet_history) {
   source_entity_score
 }
 
-plot_entities <- function(x, source_name, freq_lower = 5, top_results = 20){
+plot_entities <- function(x, source_name, freq_lower = 0, top_results = 30){
   
   plot_me <- x %>% 
     filter(freq > freq_lower, grepl("^[[:upper:]]", name)) %>%
+    arrange(desc(sum_sentiment_mag)) %>% 
     head(top_results)
-  
-  plot_name <- paste0("@", source_name, " - top sentiment for entities")
+
+  message(source_name)
   ## visualise source topics sentiment
   gg <- ggplot(plot_me, aes(x = sum_sentiment_score, y = sum_sentiment_mag, label = name)) + theme_bw()
-  gg <- gg + geom_label_repel()
-  gg <- gg + ggtitle(plot_name, 
+  gg <- gg + geom_label()
+  gg <- gg + ggtitle(source_name, 
                      subtitle = paste("Frequency > ", freq_lower, ", Top ", top_results, "results"))
-  pdf(file.path("plots", paste0(plot_name, ".pdf")))
+
+  # pdf(file.path("plots",basename(tempfile(fileext = ".pdf"))))
   print(gg)
-  dev.off()
-  
-  print(gg)
+  # dev.off()
+
 }
 
 
-get_nlp_api <- function(tweets, status_ids){
-  nlp_source_tweet_history <- lapply(tweets, googleLanguageR::gl_nlp, version = "v1beta2")
-  setNames(nlp_source_tweet_history, status_ids)
+get_nlp_api <- function(timeline_sources){
+  
+  out <- lapply(names(timeline_sources), function(x) {
+    obj <- timeline_sources[[x]]
+    googleLanguageR::gl_nlp(paste(obj$text, collapse = " || "), 
+                            version = "v1beta2", 
+                            nlp_type = "analyzeEntitySentiment")
+  })
+  
+  setNames(out, names(timeline_sources))
 }
