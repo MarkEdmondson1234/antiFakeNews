@@ -1,9 +1,9 @@
 # search_data <- search_tweets(input_source, n = 1000)
 # users_data <- users_data(search_data)
 ## gather data on source/resharer
-tweet_history <- function(userId){
+tweet_history <- function(userId, home = FALSE){
 
-  req <- try(get_timeline(userId, n = 2000))
+  req <- try(get_timeline(userId, n = 2000, home = home))
   if(assertthat::is.error(req)){
     warning("Twitter API error")
     return(NULL)
@@ -111,8 +111,7 @@ get_nlp_api <- function(timeline_sources){
   out <- lapply(names(timeline_sources), function(x) {
     obj <- timeline_sources[[x]]
     googleLanguageR::gl_nlp(paste(obj$text, collapse = " || "), 
-                            version = "v1beta2", 
-                            nlp_type = "analyzeEntitySentiment")
+                            version = "v1beta2")
   })
   
   setNames(out, names(timeline_sources))

@@ -36,7 +36,15 @@ saveRDS(nlp_sources_tweet_history, file = "data/nlp_sources_tweet_history.rds")
 ## these are the topics the source talks about the most and with most passion
 source_entities <- lapply(names(nlp_sources_tweet_history), extract_entities, source = nlp_sources_tweet_history)
 source_entities <- setNames(source_entities, names(nlp_sources_tweet_history))
+saveRDS(source_entities, file = "data/source_entities.rds")
 ## visualise source topics sentiment
 lapply(names(source_entities), function(x) plot_entities(source_entities[[x]], source_name = x))
 
 # http://tidytextmining.com/ngrams.html
+
+my_bubble <- rtweet::get_timeline("@HoloMarkeD", home = TRUE, n  = 1000)
+my_bubble_list <- list(my_bubble = my_bubble)
+
+my_nlp <- get_nlp_api(my_bubble_list)
+my_entities <- lapply(names(my_nlp), extract_entities, source = my_nlp)
+lapply(names(my_entities),function(x) plot_entities(my_entities[[x]], source_name = x))
