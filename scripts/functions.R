@@ -95,7 +95,7 @@ plot_entities <- function(x, source_name, freq_lower = 0, top_results = 30){
   message(source_name)
   ## visualise source topics sentiment
   gg <- ggplot(plot_me, aes(x = sum_sentiment_score, y = sum_sentiment_mag, label = name)) + theme_bw()
-  gg <- gg + geom_label()
+  gg <- gg + ggrepel::geom_label_repel()
   gg <- gg + ggtitle(source_name, 
                      subtitle = paste("Frequency > ", freq_lower, ", Top ", top_results, "results"))
 

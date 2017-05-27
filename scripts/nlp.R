@@ -1,6 +1,7 @@
 library(topicmodels)     ## Potential text analysis
 library(rtweet)          ## Download Tweets
 library(tidyverse)           ## ETL
+library(tidytext)
 library(googleLanguageR) ## Google NLP API
 library(ggplot2)         ## Visualistion
 library(ggrepel)         ## nice labels on ggplot
@@ -44,7 +45,9 @@ lapply(names(source_entities), function(x) plot_entities(source_entities[[x]], s
 
 my_bubble <- rtweet::get_timeline("@HoloMarkeD", home = TRUE, n  = 1000)
 my_bubble_list <- list(my_bubble = my_bubble)
+my_tweets <- rtweet::get_timeline("@HoloMarkeD", n  = 10000)
 
 my_nlp <- get_nlp_api(my_bubble_list)
 my_entities <- lapply(names(my_nlp), extract_entities, source = my_nlp)
+names(my_entities) <- "me"
 lapply(names(my_entities),function(x) plot_entities(my_entities[[x]], source_name = x))
