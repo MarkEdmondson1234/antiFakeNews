@@ -1,3 +1,24 @@
+## authentication for googleLanguageR via auth JSON you download from Google Project
+gl_auth(json_file = "~/dev/auth/Mark Edmondson GDE-5c293af6adf9.json")
+
+## downloa dthe html of a source, perform NLP upon it
+do_source_nlp <- function(url_source){
+  
+  dl_file <- gsub("\\?","",file.path("data","html_sources", paste0(basename(url_source), ".txt")))
+  dir.create("data/html_sources", showWarnings = FALSE)
+  
+  if(!file.exists(dl_file)){
+    download.file(url_source, destfile = dl_file)
+  }
+  
+  assertthat::assert_that(assertthat::is.readable(dl_file))
+  
+  lines <- readChar(dl_file, nchars = file.info(dl_file)$size)
+  
+  googleLanguageR::gl_nlp(lines, type = "HTML", version = "v1beta2")
+  
+}
+
 # search_data <- search_tweets(input_source, n = 1000)
 # users_data <- users_data(search_data)
 ## gather data on source/resharer
@@ -85,12 +106,18 @@ extract_entities <- function(names, source) {
   source_entity_score
 }
 
-plot_entities <- function(x, source_name, freq_lower = 0, top_results = 30){
+plot_entities <- function(x, source_name, freq_lower = 0, top_results = 30, upper_only = TRUE){
+  library(ggplot2)
   
-  plot_me <- x %>% 
-    filter(freq > freq_lower, grepl("^[[:upper:]]", name)) %>%
-    arrange(desc(sum_sentiment_mag)) %>% 
-    head(top_results)
+  if(upper_only){
+    plot_me <- x %>% 
+      filter(freq > freq_lower, grepl("^[[:upper:]]", name))
+  } else {
+    plot_me <- x %>%
+      arrange(desc(sum_sentiment_mag)) %>% 
+      head(top_results)
+  }
+
 
   message(source_name)
   ## visualise source topics sentiment

@@ -1,14 +1,12 @@
 library(topicmodels)     ## Potential text analysis
 library(rtweet)          ## Download Tweets
-library(tidyverse)           ## ETL
-library(tidytext)
+library(tidyverse)       ## ETL
+library(tidytext)        ## text analysis
 library(googleLanguageR) ## Google NLP API
 library(ggplot2)         ## Visualistion
 library(ggrepel)         ## nice labels on ggplot
 source("scripts/functions.R")
 
-## authentication for googleLanguageR via auth JSON you download from Google Project
-gl_auth(json_file = "~/dev/auth/Mark Edmondson GDE-5c293af6adf9.json")
 
 ## the inputs, these a news stories you want to verify reputation for
 input_source1 <- "https://www.theguardian.com/technology/2017/may/07/the-great-british-brexit-robbery-hijacked-democracy?CMP=twt_gu"

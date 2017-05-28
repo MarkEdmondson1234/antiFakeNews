@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+
+	<head>
+
+		<meta charset="utf-8">
+		<!-- Google Chrome Frame for IE -->
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+		<!-- mobile meta -->
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+		<link rel="pingback" href="https://milo.yiannopoulos.net/xmlrpc.php">
+
+		
+		<!-- head extras -->
+		<title>#MacronLeaks Viewers Claim To Find Evidence Macron Is On Gay Mailing List, Aide Buys Hard Drugs With Bitcoin &#8211; MILO NEWS</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="MILO NEWS &raquo; Feed" href="https://milo.yiannopoulos.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MILO NEWS &raquo; Comments Feed" href="https://milo.yiannopoulos.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MILO NEWS &raquo; #MacronLeaks Viewers Claim To Find Evidence Macron Is On Gay Mailing List, Aide Buys Hard Drugs With Bitcoin Comments Feed" href="https://milo.yiannopoulos.net/2017/05/macron-gay-bitcoin/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cdn.milo.yiannopoulos.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=369a396c939febc7c1c35a1a0c2b441a"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cb-main-stylesheet-css'  href='https://cdn.milo.yiannopoulos.net/wp-content/themes/15zine/library/css/style.min.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=PT+Sans+Narrow%3A400%2C700%7CLora%3A400%2C700%2C400italic&#038;ver=3.1.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='https://cdn.milo.yiannopoulos.net/wp-content/themes/15zine/library/css/ie.css?ver=3.1.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='https://cdn.milo.yiannopoulos.net/wp-content/plugins/jetpack/css/jetpack.css?ver=4.9' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-content/themes/15zine/library/js/modernizr.custom.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://milo.yiannopoulos.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://milo.yiannopoulos.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.milo.yiannopoulos.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Kurt Eichenwald Wishes Torturous Death On GOP Family Members' href='https://milo.yiannopoulos.net/2017/05/eichenwald-gop-family/' />
+<link rel='next' title='SJWs Force Chris Pratt To Apologize For &#8216;Offending Deaf People&#8217; With Joke About Subtitles' href='https://milo.yiannopoulos.net/2017/05/chris-pratt-deaf-people/' />
+
+<link rel="canonical" href="https://milo.yiannopoulos.net/2017/05/macron-gay-bitcoin/" />
+<link rel='shortlink' href='https://milo.yiannopoulos.net/?p=12867' />
+<link rel="alternate" type="application/json+oembed" href="https://milo.yiannopoulos.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmilo.yiannopoulos.net%2F2017%2F05%2Fmacron-gay-bitcoin%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://milo.yiannopoulos.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmilo.yiannopoulos.net%2F2017%2F05%2Fmacron-gay-bitcoin%2F&#038;format=xml" />
+	<script type="text/javascript">
+		(function () {
+			var xauth = document.createElement('script');
+			xauth.type = 'text/javascript';
+			xauth.async = true;
+			var host = 'https://milo.yiannopoulos.net';
+			if ('https:' == document.location.protocol) {
+				host = host.replace('http://', 'https://');
+			}
+			xauth.src = host + '/presslabs.js?ts=' + Math.floor((Math.random() * 100000) + 1);
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(xauth, s);
+		})();
+	</script>
+			<meta property="fb:pages" content="423006854503882" />
+			<meta property="fb:pages" content="423006854503882" /><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//milo.yiannopoulos.net/?wordfence_logHuman=1&hid=C1FCA56A438EE68CACB42CC00DA79773');
+</script><style type='text/css'>img#wpstats{display:none}</style>
+                    <style type="text/css">  .cb-post-meta, .cb-pagination{ 
+  font-family: 'Karla', sans-serif;
+  }
+.cb-mob-menu-wrap{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+[alt~="MILO"] {
+    height:90px;
+}
+.cb-search-field cb-font-header {
+letter-spacing: 1px;
+}#cb-nav-bar .cb-mega-menu-columns .cb-sub-menu > li > a { color: #f2c231; }.cb-review-box .cb-bar .cb-overlay span { background: #f9db32; }.cb-review-box i { color: #f9db32; }.cb-meta-style-1 .cb-article-meta { background: rgba(0, 0, 0, 0.5); }@media only screen and (min-width: 768px) {
+                .cb-module-block .cb-meta-style-1:hover .cb-article-meta { background: rgba(0, 0, 0, 0.75); }
+                .cb-module-block .cb-meta-style-2:hover img, .cb-module-block .cb-meta-style-4:hover img, .cb-grid-x .cb-grid-feature:hover img, .cb-grid-x .cb-grid-feature:hover .cb-fi-cover, .cb-slider li:hover img { opacity: 0.25; }
+            }#cb-footer { color:#ffffff; }.cb-header { background-color: #000000; }@media only screen and (min-width: 1020px){ body { font-size: 17px; }}</style><!-- end custom css --><style type="text/css">body, #respond, .cb-font-body { font-family: 'Lora', serif; } h1, h2, h3, h4, h5, h6, .cb-font-header, #bbp-user-navigation, .cb-byline{ font-family:'PT Sans Narrow', sans-serif; }</style><meta property="og:image" content="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-76.png"><!-- Body BG --><style>@media only screen and (min-width: 1200px) { body, .cb-first-alp { background-color: #000000;} .cb-body-light .cb-post-wrap { background: #fff; } .cb-body-dark .cb-post-wrap { background: #161616; } }</style><style></style><link rel="icon" href="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2016/09/cropped-milo-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2016/09/cropped-milo-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2016/09/cropped-milo-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2016/09/cropped-milo-1-270x270.png" />
+		<!-- end head extras -->
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId      : '799174030236869',
+		      xfbml      : true,
+		      version    : 'v2.8'
+		    });
+		    FB.AppEvents.logPageView();
+		  };
+
+		  (function(d, s, id){
+		     var js, fjs = d.getElementsByTagName(s)[0];
+		     if (d.getElementById(id)) {return;}
+		     js = d.createElement(s); js.id = id;
+		     js.src = "//connect.facebook.net/en_US/sdk.js";
+		     fjs.parentNode.insertBefore(js, fjs);
+		   }(document, 'script', 'facebook-jssdk'));
+		</script>
+	</head>
+
+	<body class="post-template-default single single-post postid-12867 single-format-standard  cb-sticky-mm  cb-tm-dark cb-body-light cb-menu-dark cb-mm-dark cb-footer-dark   cb-m-logo-off cb-m-sticky cb-sw-tm-fw cb-sw-header-fw cb-sw-menu-box cb-sw-footer-fw cb-menu-al-left  cb-fis-b-standard  cb-fis-tl-st-below">
+
+		
+		<div id="cb-outer-container">
+
+			
+				<div id="cb-top-menu" class="clearfix cb-font-header  cb-tm-only-mob">
+					<div class="wrap clearfix cb-site-padding cb-top-menu-wrap">
+
+													<div class="cb-left-side cb-mob">
+
+								<a href="#" id="cb-mob-open" class="cb-link"><i class="fa fa-bars"></i></a>
+															</div>
+						                                                <ul class="cb-top-nav cb-only-mob-menu cb-right-side"><li class="cb-icon-search cb-menu-icons-extra"><a href="#" title="Search" id="cb-s-trigger-mob"><i class="fa fa-search"></i></a></li></ul>                        					</div>
+				</div>
+
+				<div id="cb-mob-menu" class="cb-mob-menu">
+					<div class="cb-mob-close-wrap">
+						
+						<a href="#" id="cb-mob-close" class="cb-link"><i class="fa cb-times"></i></a>
+						<div class="cb-mob-social">				            <a href="http://www.facebook.com/myiannopoulos" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+				        				            <a href="http://www.instagram.com/milo.yiannopoulos" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+				        </div>				    </div>
+
+					<div class="cb-mob-menu-wrap">
+						<ul id="cb-mob-ul" class="cb-mobile-nav cb-top-nav cb-mob-ul-show"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-86"><a href="https://milo.yiannopoulos.net">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children cb-has-children menu-item-89"><a href="https://milo.yiannopoulos.net/category/politics/">Politics</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102"><a href="https://milo.yiannopoulos.net/category/politics/trump/">Trump</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-97"><a href="https://milo.yiannopoulos.net/category/politics/conservative/">Conservative</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-100"><a href="https://milo.yiannopoulos.net/category/politics/liberal/">Liberal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98"><a href="https://milo.yiannopoulos.net/category/politics/guns/">Guns</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-96"><a href="https://milo.yiannopoulos.net/category/politics/alt-right/">Alt-Right</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99"><a href="https://milo.yiannopoulos.net/category/politics/immigration/">Immigration</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-95"><a href="https://milo.yiannopoulos.net/category/politics/islam/">Islam</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-101"><a href="https://milo.yiannopoulos.net/category/politics/terrorism/">Terrorism</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children cb-has-children menu-item-90"><a href="https://milo.yiannopoulos.net/category/media/">Media</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103"><a href="https://milo.yiannopoulos.net/category/media/alt-media/">Alt Media</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112"><a href="https://milo.yiannopoulos.net/category/media/msm/">MSM</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104"><a href="https://milo.yiannopoulos.net/category/media/celebrities-media/">Celebrities</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108"><a href="https://milo.yiannopoulos.net/category/media/gamers/">Gamers</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110"><a href="https://milo.yiannopoulos.net/category/media/internet-culture/">Internet Culture</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-113"><a href="https://milo.yiannopoulos.net/category/media/social-media/">Social Media</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="https://milo.yiannopoulos.net/category/media/sports/">Sports</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="https://milo.yiannopoulos.net/category/media/tv-shows/">TV Shows</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111"><a href="https://milo.yiannopoulos.net/category/media/movies/">Movies</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105"><a href="https://milo.yiannopoulos.net/category/media/comedians/">Comedians</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-87"><a href="https://milo.yiannopoulos.net/category/sjw/">SJWs</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91"><a href="https://milo.yiannopoulos.net/category/sjw/college/">College Campus</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92"><a href="https://milo.yiannopoulos.net/category/sjw/blm/">BLM</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93"><a href="https://milo.yiannopoulos.net/category/sjw/feminism/">Feminism</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94"><a href="https://milo.yiannopoulos.net/category/sjw/lgbt/">LGBT</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-88"><a href="https://milo.yiannopoulos.net/category/milo/">MILO</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116"><a href="https://milo.yiannopoulos.net/category/milo/tour/">Tour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109"><a href="https://milo.yiannopoulos.net/category/media/headlines/">Headlines</a></li>
+</ul>
+</li>
+</ul>											</div>
+
+				</div>
+			
+			<div id="cb-container" class="clearfix" >
+									<header id="cb-header" class="cb-header  ">
+
+					    <div id="cb-logo-box" class="cb-logo-left wrap">
+	                    	                <div id="logo">
+                                        <a href="https://milo.yiannopoulos.net">
+                        <img src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2016/10/MILO_White.png" alt="MILO NEWS" >
+                    </a>
+                                    </div>
+            	                        	                    </div>
+
+					</header>
+				
+				<div id="cb-menu-search" class="cb-s-modal cb-modal"><div class="cb-close-m cb-ta-right"><i class="fa cb-times"></i></div><div class="cb-s-modal-inner cb-pre-load cb-light-loader cb-modal-inner cb-font-header cb-mega-three cb-mega-posts clearfix"><form method="get" class="cb-search" action="https://milo.yiannopoulos.net/">
+
+    <input type="text" class="cb-search-field cb-font-header" placeholder="Search.." value="" name="s" title="" autocomplete="off">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+    
+</form><div id="cb-s-results"></div></div></div>				
+									 <nav id="cb-nav-bar" class="clearfix  wrap">
+					 	<div class="cb-nav-bar-wrap cb-site-padding clearfix cb-font-header  wrap">
+		                    <ul class="cb-main-nav wrap clearfix"><li id="menu-item-86" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-86"><a href="https://milo.yiannopoulos.net">Home</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children cb-has-children menu-item-89"><a href="https://milo.yiannopoulos.net/category/politics/">Politics</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-sub-mega-three cb-pre-load cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Politics</h2><a href="https://milo.yiannopoulos.net/category/politics/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-15236 post type-post status-publish format-standard has-post-thumbnail category-conservative category-crime category-liberal category-politics category-sjw category-social-media category-trump tag-jeremy-christian-portland tag-portland tag-portland-stabbing tag-portland-stabbing-jeremy-christian"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/jeremy-christian-bernie/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/jeremy-christian-bernie/">Narrative Destroyed: &#8216;White Supremacist&#8217; Portland Stabbing Suspect Is A Bernie Bro</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-15226 post type-post status-publish format-standard has-post-thumbnail category-conservative category-liberal category-politics tag-food-stamps tag-food-stamps-georgia tag-georgia tag-georgia-food-stamps tag-georgia-snap tag-georgia-snap-requirements tag-snap"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/georgia-food-stamps/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-258-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-258-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-258-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/georgia-food-stamps/">Thousands Cured Of Poverty After Georgia Introduces Work-For-Food-Stamp Requirement</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-15220 post type-post status-publish format-standard has-post-thumbnail category-media category-msm category-politics category-trump tag-g7 tag-g7-summit tag-trump tag-trump-g7 tag-trump-g7-headset"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/trump-headset-g7/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-257-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-257-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-257-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/trump-headset-g7/">Spicey Boy Accuses MSM Of Peddling FAKE NEWS Over #HeadsetGate</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li></ul></div><ul class="cb-sub-menu cb-sub-bg">	<li id="menu-item-102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102"><a href="https://milo.yiannopoulos.net/category/politics/trump/" data-cb-c="13" class="cb-c-l">Trump</a></li>
+	<li id="menu-item-97" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-97"><a href="https://milo.yiannopoulos.net/category/politics/conservative/" data-cb-c="23" class="cb-c-l">Conservative</a></li>
+	<li id="menu-item-100" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-100"><a href="https://milo.yiannopoulos.net/category/politics/liberal/" data-cb-c="33" class="cb-c-l">Liberal</a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98"><a href="https://milo.yiannopoulos.net/category/politics/guns/" data-cb-c="27" class="cb-c-l">Guns</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-96"><a href="https://milo.yiannopoulos.net/category/politics/alt-right/" data-cb-c="17" class="cb-c-l">Alt-Right</a></li>
+	<li id="menu-item-99" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99"><a href="https://milo.yiannopoulos.net/category/politics/immigration/" data-cb-c="29" class="cb-c-l">Immigration</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-95"><a href="https://milo.yiannopoulos.net/category/politics/islam/" data-cb-c="31" class="cb-c-l">Islam</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-101"><a href="https://milo.yiannopoulos.net/category/politics/terrorism/" data-cb-c="11" class="cb-c-l">Terrorism</a></li>
+</ul></div></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children cb-has-children menu-item-90"><a href="https://milo.yiannopoulos.net/category/media/">Media</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-sub-mega-three cb-pre-load cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Media</h2><a href="https://milo.yiannopoulos.net/category/media/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-15236 post type-post status-publish format-standard has-post-thumbnail category-conservative category-crime category-liberal category-politics category-sjw category-social-media category-trump tag-jeremy-christian-portland tag-portland tag-portland-stabbing tag-portland-stabbing-jeremy-christian"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/jeremy-christian-bernie/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/jeremy-christian-bernie/">Narrative Destroyed: &#8216;White Supremacist&#8217; Portland Stabbing Suspect Is A Bernie Bro</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-15220 post type-post status-publish format-standard has-post-thumbnail category-media category-msm category-politics category-trump tag-g7 tag-g7-summit tag-trump tag-trump-g7 tag-trump-g7-headset"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/trump-headset-g7/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-257-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-257-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-257-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/trump-headset-g7/">Spicey Boy Accuses MSM Of Peddling FAKE NEWS Over #HeadsetGate</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-15194 post type-post status-publish format-standard has-post-thumbnail category-islam category-liberal category-media category-msm category-politics category-terrorism category-video tag-imam tag-imam-tawhidi tag-islam tag-islam-manchester-attack tag-manchester tag-religion-of-peace tag-religion-of-peace-manchester tag-tawhidi tag-tv"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/based-imam-manchester/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-254-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-254-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-254-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/based-imam-manchester/">Watch: Based Imam Crushes The &#8220;Religion Of Peace&#8221; Narrative</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li></ul></div><ul class="cb-sub-menu cb-sub-bg">	<li id="menu-item-103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103"><a href="https://milo.yiannopoulos.net/category/media/alt-media/" data-cb-c="16" class="cb-c-l">Alt Media</a></li>
+	<li id="menu-item-112" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112"><a href="https://milo.yiannopoulos.net/category/media/msm/" data-cb-c="5" class="cb-c-l">MSM</a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104"><a href="https://milo.yiannopoulos.net/category/media/celebrities-media/" data-cb-c="20" class="cb-c-l">Celebrities</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108"><a href="https://milo.yiannopoulos.net/category/media/gamers/" data-cb-c="26" class="cb-c-l">Gamers</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110"><a href="https://milo.yiannopoulos.net/category/media/internet-culture/" data-cb-c="30" class="cb-c-l">Internet Culture</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-113"><a href="https://milo.yiannopoulos.net/category/media/social-media/" data-cb-c="8" class="cb-c-l">Social Media</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="https://milo.yiannopoulos.net/category/media/sports/" data-cb-c="9" class="cb-c-l">Sports</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="https://milo.yiannopoulos.net/category/media/tv-shows/" data-cb-c="14" class="cb-c-l">TV Shows</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111"><a href="https://milo.yiannopoulos.net/category/media/movies/" data-cb-c="4" class="cb-c-l">Movies</a></li>
+	<li id="menu-item-105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105"><a href="https://milo.yiannopoulos.net/category/media/comedians/" data-cb-c="22" class="cb-c-l">Comedians</a></li>
+</ul></div></li>
+<li id="menu-item-87" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-87"><a href="https://milo.yiannopoulos.net/category/sjw/">SJWs</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-sub-mega-three cb-pre-load cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>SJWs</h2><a href="https://milo.yiannopoulos.net/category/sjw/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-15236 post type-post status-publish format-standard has-post-thumbnail category-conservative category-crime category-liberal category-politics category-sjw category-social-media category-trump tag-jeremy-christian-portland tag-portland tag-portland-stabbing tag-portland-stabbing-jeremy-christian"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/jeremy-christian-bernie/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-259-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/jeremy-christian-bernie/">Narrative Destroyed: &#8216;White Supremacist&#8217; Portland Stabbing Suspect Is A Bernie Bro</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-15202 post type-post status-publish format-standard has-post-thumbnail category-feminism category-sjw tag-buzzfeed tag-buzzfeed-feminism tag-buzzfeed-sjw tag-buzzfeed-social-justice-warrior tag-social-justice-warrior"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/buzzfeed-white-women/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-255-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-255-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-255-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/buzzfeed-white-women/">This BuzzFeed Writer Wants You To Know White Women Are Evil</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-15164 post type-post status-publish format-standard has-post-thumbnail category-college category-liberal category-video tag-college-fix tag-socialism tag-socialism-troll tag-socialist tag-video tag-yaf tag-young-americans-for-freedom"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/socialism-trolled/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-253-260x170.png" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-253-260x170.png 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-253-100x65.png 100w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/socialism-trolled/">Video: College Students Get Trolled Into Trashing Socialism</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-27">May 27, 2017</time></span></div></div></li></ul></div><ul class="cb-sub-menu cb-sub-bg">	<li id="menu-item-91" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91"><a href="https://milo.yiannopoulos.net/category/sjw/college/" data-cb-c="21" class="cb-c-l">College Campus</a></li>
+	<li id="menu-item-92" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92"><a href="https://milo.yiannopoulos.net/category/sjw/blm/" data-cb-c="18" class="cb-c-l">BLM</a></li>
+	<li id="menu-item-93" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93"><a href="https://milo.yiannopoulos.net/category/sjw/feminism/" data-cb-c="25" class="cb-c-l">Feminism</a></li>
+	<li id="menu-item-94" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-94"><a href="https://milo.yiannopoulos.net/category/sjw/lgbt/" data-cb-c="32" class="cb-c-l">LGBT</a></li>
+</ul></div></li>
+<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-88"><a href="https://milo.yiannopoulos.net/category/milo/">MILO</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-sub-mega-three cb-pre-load cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>MILO</h2><a href="https://milo.yiannopoulos.net/category/milo/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-15042 post type-post status-publish format-standard has-post-thumbnail category-milo tag-milo tag-milo-dangerous tag-milo-dangerous-book tag-milo-new-book tag-milo-news tag-milo-yiannopoulos tag-milo-yiannopoulos-new-book tag-simon-and-schuster"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/milo-press-release-dangerous/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/18671110_922447061226523_3790994905203407007_n-260x170.jpg" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/18671110_922447061226523_3790994905203407007_n-260x170.jpg 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/18671110_922447061226523_3790994905203407007_n-100x65.jpg 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/18671110_922447061226523_3790994905203407007_n-759x500.jpg 759w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/milo-press-release-dangerous/">Press Release: MILO Announces Release Date For Debut Book DANGEROUS</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-26">May 26, 2017</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-13919 post type-post status-publish format-standard has-post-thumbnail category-milo category-politics tag-hillary-clinton tag-milo"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/an-intellectual-defense-of-populism-why-milo-yiannopoulos-matters/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/populism-260x170.jpg" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/populism-260x170.jpg 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/populism-100x65.jpg 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/populism-759x500.jpg 759w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/an-intellectual-defense-of-populism-why-milo-yiannopoulos-matters/">An intellectual defense of populism: why Milo Yiannopoulos Matters</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-15">May 15, 2017</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-13579 post type-post status-publish format-standard has-post-thumbnail category-college category-islam category-milo category-uncategorized tag-cuny tag-linda-sarsour tag-milo tag-sharia"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="https://milo.yiannopoulos.net/2017/05/armor-up-milo-takes-on-pro-sharia-speaker-at-cuny-cancelsarsour/"><img width="260" height="170" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/linda-sarsour-260x170.jpg" class="attachment-cb-260-170 size-cb-260-170 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/linda-sarsour-260x170.jpg 260w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/linda-sarsour-768x506.jpg 768w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/linda-sarsour-100x65.jpg 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/linda-sarsour-759x500.jpg 759w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/linda-sarsour.jpg 880w" sizes="(max-width: 260px) 100vw, 260px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/armor-up-milo-takes-on-pro-sharia-speaker-at-cuny-cancelsarsour/">Armor Up: MILO takes on pro-Sharia speaker at CUNY #CancelSarsour</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2017-05-12">May 12, 2017</time></span></div></div></li></ul></div><ul class="cb-sub-menu cb-sub-bg">	<li id="menu-item-116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116"><a href="https://milo.yiannopoulos.net/category/milo/tour/" data-cb-c="12" class="cb-c-l">Tour</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109"><a href="https://milo.yiannopoulos.net/category/media/headlines/" data-cb-c="28" class="cb-c-l">Headlines</a></li>
+</ul></div></li>
+<li id="menu-item-trending" class="cb-trending"><a href="#" id="cb-trend-menu-item" class="cb-trending-item"><i class="fa fa-fire"></i> Trending</a><div class="cb-menu-drop cb-mega-menu  cb-bg cb-big-menu"><div id="cb-trending-block" class="cb-mega-trending cb-mega-posts cb-pre-load clearfix"><div class="cb-upper-title"><h2><i class="fa fa-fire"></i> Trending</h2><span class="cb-see-all"><a href="#" data-cb-r="cb-1" class="cb-selected cb-trending-op">Now</a><a href="#" data-cb-r="cb-2" class="cb-trending-op">Week</a><a href="#" data-cb-r="cb-3" class="cb-trending-op">Month</a></span></div><ul id="cb-trend-data" class="clearfix"> <li class="cb-article-1 clearfix"><div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/based-imam-manchester/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-254-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div><div class="cb-meta"><span class="cb-post-views"><i class="fa fa-fire"></i> 7836</span><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/based-imam-manchester/">Watch: Based Imam Crushes The &#8220;Religion Of Peace&#8221; Narrative</a></h2></div><span class="cb-countdown">1</span><a href="https://milo.yiannopoulos.net/2017/05/based-imam-manchester/" class="cb-link-overlay"></a></li> <li class="cb-article-2 clearfix"><div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/georgia-food-stamps/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-258-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div><div class="cb-meta"><span class="cb-post-views"><i class="fa fa-fire"></i> 6757</span><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/georgia-food-stamps/">Thousands Cured Of Poverty After Georgia Introduces Work-For-Food-Stamp Requirement</a></h2></div><span class="cb-countdown">2</span><a href="https://milo.yiannopoulos.net/2017/05/georgia-food-stamps/" class="cb-link-overlay"></a></li> <li class="cb-article-3 clearfix"><div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/polish-pm-refugees/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-231-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div><div class="cb-meta"><span class="cb-post-views"><i class="fa fa-fire"></i> 5245</span><h2 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/polish-pm-refugees/">Video: Polish PM Makes Cuckmeat Of Leftists Siding With Radical Islam Following Manchester Attack</a></h2></div><span class="cb-countdown">3</span><a href="https://milo.yiannopoulos.net/2017/05/polish-pm-refugees/" class="cb-link-overlay"></a></li></ul></div></div></li><li class="cb-icon-search cb-menu-icons-extra"><a href="#"  title="Search" id="cb-s-trigger-gen"><i class="fa fa-search"></i></a></li><li class="cb-menu-icons-extra cb-social-icons-extra"><a href="http://www.facebook.com/myiannopoulos"  target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li><li class="cb-menu-icons-extra cb-social-icons-extra"><a href="http://www.instagram.com/milo.yiannopoulos"  target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li></ul>		                </div>
+	 				</nav>
+ 				
+<div id="cb-content" class="wrap clearfix">
+	
+	<div class="cb-entire-post cb-first-alp clearfix">
+
+					
+		<div class="cb-post-wrap cb-wrap-pad wrap clearfix cb-sidebar-right">
+
+			
+					
+    <meta itemprop="datePublished" content="2017-05-06T20:14:04+00:00">
+    <meta itemprop="dateModified" content="2017-05-06T20:14:04+00:00">
+    <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://milo.yiannopoulos.net/2017/05/macron-gay-bitcoin/">
+    <span class="cb-hide" itemscope itemprop="publisher" itemtype="https://schema.org/Organization">
+        <meta itemprop="name" content="MILO NEWS">
+        <meta itemprop="url" content="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2016/10/MILO_White.png">
+        <span class="cb-hide" itemscope itemprop="logo" itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2016/10/MILO_White.png">
+        </span>
+    </span>
+    <span class="cb-hide" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="staffwriter"></span>
+
+        
+    <meta itemprop="headline " content="#MacronLeaks Viewers Claim To Find Evidence Macron Is On Gay Mailing List, Aide Buys Hard Drugs With Bitcoin">
+
+      <span class="cb-hide" itemscope itemtype="http://schema.org/ImageObject" itemprop="image" >
+        <meta itemprop="url" content="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-76.png">
+        <meta itemprop="width" content="800">
+        <meta itemprop="height" content="419">
+    </span>
+
+
+					<div class="cb-main clearfix">
+
+						
+						<article id="post-12867" class="clearfix post-12867 post type-post status-publish format-standard has-post-thumbnail hentry category-conservative category-liberal category-politics category-social-media tag-emmanuel-macron tag-emmanuel-macron-gay tag-emmanuel-macron-leaks tag-macron tag-macron-leaks tag-macronleaks">
+
+							<div id="cb-featured-image" class="cb-fis cb-fis-block-standard"><div class="cb-mask"><img width="759" height="419" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-76-759x419.png" class="attachment-cb-759-500 size-cb-759-500 wp-post-image" alt="" /></div><div class="cb-entry-header cb-meta clearfix"><h1 class="entry-title cb-entry-title cb-title">#MacronLeaks Viewers Claim To Find Evidence Macron Is On Gay Mailing List, Aide Buys Hard Drugs With Bitcoin</h1><div class="cb-byline"><span class="cb-date"><time datetime="2017-05-06">May 6, 2017</time></span></div><div class="cb-post-meta"><span class="cb-category cb-element"><a href="https://milo.yiannopoulos.net/category/politics/conservative/" title="View all posts in Conservative">Conservative</a></span><span class="cb-category cb-element"><a href="https://milo.yiannopoulos.net/category/politics/liberal/" title="View all posts in Liberal">Liberal</a></span><span class="cb-category cb-element"><a href="https://milo.yiannopoulos.net/category/politics/" title="View all posts in Politics">Politics</a></span><span class="cb-category cb-element"><a href="https://milo.yiannopoulos.net/category/media/social-media/" title="View all posts in Social Media">Social Media</a></span><span class="cb-comments cb-element"><a href="https://milo.yiannopoulos.net/2017/05/macron-gay-bitcoin/#comments"><span class="dsq-postid" data-dsqidentifier="12867 https://milo.yiannopoulos.net/?p=12867">33 Comments</span></a></span><span class="cb-read-time cb-element"><a href="https://milo.yiannopoulos.net/2017/05/macron-gay-bitcoin/">3 min read</a></span></div></div></div>
+							<section class="cb-entry-content clearfix" itemprop="articleBody">
+
+								<span class="cb-itemprop" itemprop="reviewBody"><h4>The large-scale leak of confidential data related to French presidential candidate Emmanuel Macron continues to make headlines today, with some claiming to have found dubious information in the 9 gigabytes of files.</h4>
+<p>While the veracity of the leaks was unclear yesterday, it has apparently been confirmed by multiple outlets, <a href="http://www.reuters.com/article/us-france-election-cyber-idUSKBN1820QO">including Reuters,</a> which describes the drop as containing &#8220;emails and other campaign documents that Macron&#8217;s campaign said on Friday had been stolen.&#8221;</p>
+<p><a href="http://www.bbc.com/news/world-europe-39830379">According to the BBC,</a> the French media and public have been warned that spreading the data in advance of tomorrow&#8217;s election &#8220;would breach strict election rules and could bring criminal charges.&#8221;</p>
+<p>But while the French are keeping relatively mum on the leaks, social media users from the United States are speaking about them loud and clear, sharing some information that – if true – could prove rather embarrassing for Macron.</p>
+<p>For example, <a href="http://gotnews.com/breaking-macronleaks-show-emmanuelmacron-gay-mailing-list-top-aides-buying-drugs-online/">Got News</a> claims to have found among the leaked files evidence that Emmanuel Macron is on the mailing list of &#8216;VestiareGay.&#8217;</p>
+<p>&#8220;Mailing lists like this are opt-in only,&#8221; the outlet claims. &#8220;This image was found in an e-mail addressed to Emmanuel Macron.&#8221;</p>
+<p><img class="aligncenter size-full wp-image-12869" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-gay-1.png" alt="" width="650" height="743" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-gay-1.png 650w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-gay-1-262x300.png 262w" sizes="(max-width: 650px) 100vw, 650px" /></p>
+<p>The outlet also declares, &#8220;the rumors circulated about French presidential candidate Emmanuel Macron&#8217;s inner circle are true,&#8221; in reference to apparently yet-unfounded <a href="https://www.wesearchr.com/bounties/prove-emmanuel-macron-is-gay-apportez-la-preuve-de-lhomosexu">allegations</a> that Macron is gay.</p>
+<h4>Got News also claims to have found evidence that Macron&#8217;s senior campaign member Alain Tourret once ordered a &#8220;designer drug&#8221; using bitcoin.</h4>
+<p>Presenting the screenshot below, the outlet alleges that Tourret purchased MMC-3, &#8220;a combination of effects similar to ecstasy and crystal meth.&#8221;</p>
+<p><img class="aligncenter size-full wp-image-12871" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-Gay-2.jpg" alt="" width="735" height="697" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-Gay-2.jpg 735w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-Gay-2-300x284.jpg 300w" sizes="(max-width: 735px) 100vw, 735px" /></p>
+<p>&#8220;He had his package sent to a government address, which may not be as reckless as it first appears,&#8221; states the outlet in an apparent reference to the address that has been blurred in the document screenshot above.</p>
+<p>&#8220;If this is sent to his public address, as opposed to a home address not known to the public, then, if caught, he can claim to be victims of a prank.&#8221;</p>
+<p>The outlet goes on to cite this screenshot, which was allegedly &#8220;retrieved by researchers who are experts in illicit online transactions such as this drug purchase.&#8221;</p>
+<p>The screenshot allegedly confirms that the transaction detailed in the previous screenshot took place.</p>
+<p><img class="aligncenter size-full wp-image-12873" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-Gay-3-740x589.jpg" alt="" width="740" height="589" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-Gay-3-740x589.jpg 740w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-Gay-3-740x589-300x239.jpg 300w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/Macron-Gay-3-740x589-378x300.jpg 378w" sizes="(max-width: 740px) 100vw, 740px" /></p>
+<h4>Needless to say, allegations like these have caused quite a stir online – especially since conservative social media heavyweights like Mike Cernovich are discussing them.</h4>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr"><a href="https://twitter.com/Cernovich">@Cernovich</a> This is getting better and better what documentary</p>
+<p>&mdash; Melody???????????????????????? (@Melody00468759) <a href="https://twitter.com/Melody00468759/status/860977919962750976">May 6, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr"><a href="https://twitter.com/Cernovich">@Cernovich</a> <a href="https://twitter.com/hashtag/MacronLeaks?src=hash">#MacronLeaks</a> Show <a href="https://twitter.com/EmmanuelMacron">@EmmanuelMacron</a> Is On Gay Mailing List, Top Aides Buying Drugs Online, And More</p>
+<p>&mdash; Trump Florida (@trumpflorida1) <a href="https://twitter.com/trumpflorida1/status/860982252871798784">May 6, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr"><a href="https://twitter.com/Cernovich">@Cernovich</a> <a href="https://twitter.com/duke_sauceda">@duke_sauceda</a> Finance Ministry under <a href="https://twitter.com/hashtag/EmmanuelMacron?src=hash">#EmmanuelMacron</a> apparently hub of gay internet surfing, designer drugs and corporate gimmies <a href="https://twitter.com/hashtag/MarineLePen?src=hash">#MarineLePen</a> <a href="https://twitter.com/hashtag/Marine2017?src=hash">#Marine2017</a></p>
+<p>&mdash; PaulFrantizek (@FrantizekPaul) <a href="https://twitter.com/FrantizekPaul/status/860983843683225605">May 6, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr"><a href="https://twitter.com/Cernovich">@Cernovich</a> Well, he&#39;s utterly screwed if this reaches the ISIS operatives there.</p>
+<p>&mdash; ????????Jacob Dillon???????? (@ADudeFromNowere) <a href="https://twitter.com/ADudeFromNowere/status/860981251066531840">May 6, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h4>According to AFP, current French President Francois Hollande has vowed &#8220;a response&#8221; to the massive hack.</h4>
+<p><a href="https://www.yahoo.com/news/frances-hollande-promises-response-macron-election-hack-163906284.html">The agency states</a> that Hollande said, &#8220;we knew there were these risks during the presidential campaign because it happened elsewhere. Nothing will go without a response.&#8221;</p>
+<p><a href="http://www.independent.co.uk/news/world/europe/emmanuel-macron-leaks-hack-en-marche-cyber-attack-russia-dnc-marine-le-pen-election-france-latest-a7721796.html">The Independent,</a> meanwhile, cites cyber intelligence firm Flashpoint&#8217;s director Vitali Kremez, who claims a group tied to a Russian military intelligence directorate is behind the leak.</p>
+<p>Sources:<br />
+<a href="http://www.independent.co.uk/news/world/europe/emmanuel-macron-leaks-hack-en-marche-cyber-attack-russia-dnc-marine-le-pen-election-france-latest-a7721796.html">The Independent</a><br />
+<a href="https://www.yahoo.com/news/frances-hollande-promises-response-macron-election-hack-163906284.html">AFP<br />
+</a><a href="https://www.wesearchr.com/bounties/prove-emmanuel-macron-is-gay-apportez-la-preuve-de-lhomosexu">Wesearchr<br />
+</a><a href="http://www.bbc.com/news/world-europe-39830379">BBC</a><a href="https://www.wesearchr.com/bounties/prove-emmanuel-macron-is-gay-apportez-la-preuve-de-lhomosexu"><br />
+</a><a href="http://www.reuters.com/article/us-france-election-cyber-idUSKBN1820QO">Reuters</a><a href="https://www.wesearchr.com/bounties/prove-emmanuel-macron-is-gay-apportez-la-preuve-de-lhomosexu"><br />
+</a><a href="http://gotnews.com/breaking-macronleaks-show-emmanuelmacron-gay-mailing-list-top-aides-buying-drugs-online/">Got News</a><a href="https://www.wesearchr.com/bounties/prove-emmanuel-macron-is-gay-apportez-la-preuve-de-lhomosexu"><br />
+</a></p>
+</span>																
+							</section> <!-- end article section -->
+							
+							<footer class="cb-article-footer">
+								<div id="cb-related-posts-block" class="cb-post-footer-block cb-arrows-tr cb-module-block clearfix"><h3 class="cb-title cb-title-header">Related Posts</h3><div id="cb-related-posts" class="cb-slider-2 cb-slider cb-meta-below"><ul class="slides clearfix">                <li class="cb-style-1 clearfix cb-no-1 post-14880 post type-post status-publish format-standard has-post-thumbnail hentry category-media category-politics category-trump category-video tag-emmanuel-macron tag-emmanuel-macron-handshake tag-emmanuel-macron-trump tag-macron tag-trump">
+                    <div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/macron-trump-little-girl/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-224-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/macron-trump-little-girl/">Video: Macron Ignores Trump, Trump Responds By Making Him Look Like A Little Girl</a></h4>
+                        <div class="cb-byline"><span class="cb-date"><time datetime="2017-05-25">May 25, 2017</time></span></div>                    </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-2 post-12941 post type-post status-publish format-standard has-post-thumbnail hentry category-politics tag-emmanuel-macron tag-france tag-france-will-be-led-by-a-woman tag-france-woman tag-french-election tag-le-pen tag-macron tag-merkel">
+                    <div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/macron-wins-france/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-84-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/macron-wins-france/">Report: Angela Merkel Wins Big At Polls, Becomes France&#8217;s New President</a></h4>
+                        <div class="cb-byline"><span class="cb-date"><time datetime="2017-05-07">May 7, 2017</time></span></div>                    </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-1 post-12933 post type-post status-publish format-standard has-post-thumbnail hentry category-conservative category-liberal category-politics tag-france-second-round-election tag-french-election tag-le-pen tag-macron tag-marine-le-pen tag-marine-le-pen-election">
+                    <div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/french-election-turnout/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-83-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/french-election-turnout/">Report: French Election Sees Staggeringly Low Voter Turnout, Cause For Concern For Macron</a></h4>
+                        <div class="cb-byline"><span class="cb-date"><time datetime="2017-05-07">May 7, 2017</time></span></div>                    </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-2 post-12761 post type-post status-publish format-standard has-post-thumbnail hentry category-conservative category-liberal category-politics category-social-media tag-pol tag-4chan tag-4chan-leak tag-4chan-leaks tag-emmanuel-macron tag-macron tag-macron-leak">
+                    <div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/macron-leak-pol/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-63-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/macron-leak-pol/">Report: /pol/ Releases Thousands Of Alleged Macron Campaign Emails</a></h4>
+                        <div class="cb-byline"><span class="cb-date"><time datetime="2017-05-05">May 5, 2017</time></span></div>                    </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-1 post-12705 post type-post status-publish format-standard has-post-thumbnail hentry category-alt-right category-conservative category-liberal category-media category-politics tag-french-election tag-french-election-debate tag-le-pen tag-le-pen-macron tag-macron tag-marine-le-pen">
+                    <div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/merkel-france-woman/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-54-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/merkel-france-woman/">Le Pen: No Matter Who Wins, France Will Be Led By A Woman</a></h4>
+                        <div class="cb-byline"><span class="cb-date"><time datetime="2017-05-04">May 4, 2017</time></span></div>                    </div>
+                </li>
+                <li class="cb-style-1 clearfix cb-no-2 post-12683 post type-post status-publish format-standard has-post-thumbnail hentry category-conservative category-liberal category-politics tag-emmanuel-macron tag-emmanuel-macron-le-pen tag-french-election-russia tag-macron tag-russian-election">
+                    <div class="cb-mask"><a href="https://milo.yiannopoulos.net/2017/05/russian-macron-offshore/"><img width="360" height="240" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-51-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" /></a></div>
+                    <div class="cb-meta">
+                        <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/russian-macron-offshore/">Macron Blames Russian Agents For Documents Alleging His Involvement In Offshore Banking</a></h4>
+                        <div class="cb-byline"><span class="cb-date"><time datetime="2017-05-04">May 4, 2017</time></span></div>                    </div>
+                </li>
+</ul></div></div>
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-90161">
+        <div id="dsq-comment-header-90161" class="dsq-comment-header">
+            <cite id="dsq-cite-90161">
+                <a id="dsq-author-user-90161" href="https://muckrack.com/bruce-majors" target="_blank" rel="nofollow">BruceMajors4DC</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90161" class="dsq-comment-body">
+            <div id="dsq-comment-message-90161" class="dsq-comment-message"><p>Of course if he had these released himself he could be trying to get the gay vote back from Le Pen?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-90163">
+        <div id="dsq-comment-header-90163" class="dsq-comment-header">
+            <cite id="dsq-cite-90163">
+                <span id="dsq-author-user-90163">Jesse James</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90163" class="dsq-comment-body">
+            <div id="dsq-comment-message-90163" class="dsq-comment-message"><p>That one photo was just too much.  LOL.  That is some seriously gay stuff there for this straight guy.  Ugh, that reminds me of these poor saps from the Indian Navy.  They got on our ship to pick up supplies, just their junior sailors.  All of them had a buttoned hole over their butt.  We honestly had no other idea what it could be used for?  LOL.  So, we all felt it was confirmed with their terrified looks on their faces as a bunch of us were looking at them with our arms crossed, and a confused look on their face.  Sad man.  </p>
+<p>Will say one thing though.  Shouldn&#8217;t it have been obvious?  I thought it.  Why would a reasonably good looking, intelligent, hombre of his caliber marry an aged out grandma if it wasn&#8217;t a down low relationship?  Either way, there are few avenues that suggest he is fit for this office.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-90297">
+        <div id="dsq-comment-header-90297" class="dsq-comment-header">
+            <cite id="dsq-cite-90297">
+                <span id="dsq-author-user-90297">^^pretends they know</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90297" class="dsq-comment-body">
+            <div id="dsq-comment-message-90297" class="dsq-comment-message"><p>hmmm Crossing your arms in india means fuck you, they were probably scared you wanted to fuck them&#8230; &#8216;oh my god, we should not have got dees buttoned holes on our pants, these Americans want to fuck us now&#8217;. lmfao</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-90167">
+        <div id="dsq-comment-header-90167" class="dsq-comment-header">
+            <cite id="dsq-cite-90167">
+                <span id="dsq-author-user-90167">Ron Leger</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90167" class="dsq-comment-body">
+            <div id="dsq-comment-message-90167" class="dsq-comment-message"><p>So he likes to get high and fuck dudes&#8230; that&#8217;s honestly the least that could possibly worry me about him.  Sounds like all consenting adult stuff to me.  Now being globalisms bitch, that&#8217;s concerning to me.  Him having the German chancellors hand so far up his ass she will use him as an EU fucking puppet is concerning&#8230; but him liking the taste of cock while high is fine to me.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-90205">
+        <div id="dsq-comment-header-90205" class="dsq-comment-header">
+            <cite id="dsq-cite-90205">
+                <span id="dsq-author-user-90205">Rekt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90205" class="dsq-comment-body">
+            <div id="dsq-comment-message-90205" class="dsq-comment-message"><p>Well put. Hats off to you, sir!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-2" id="dsq-comment-90207">
+        <div id="dsq-comment-header-90207" class="dsq-comment-header">
+            <cite id="dsq-cite-90207">
+                <span id="dsq-author-user-90207">Clewcringle</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90207" class="dsq-comment-body">
+            <div id="dsq-comment-message-90207" class="dsq-comment-message"><p>I don&#8217;t care if a politico is gay.  However, I care if he is secretly gay because he can be compromised and blackmailed.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-90209">
+        <div id="dsq-comment-header-90209" class="dsq-comment-header">
+            <cite id="dsq-cite-90209">
+                <span id="dsq-author-user-90209">BeavertonSteve</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90209" class="dsq-comment-body">
+            <div id="dsq-comment-message-90209" class="dsq-comment-message"><p>No doubt. I&#8217;m pretty sure the US survived 8 years of this. These aren&#8217;t the reasons to keep him out of office.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-90725">
+        <div id="dsq-comment-header-90725" class="dsq-comment-header">
+            <cite id="dsq-cite-90725">
+                <span id="dsq-author-user-90725">robertleo</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90725" class="dsq-comment-body">
+            <div id="dsq-comment-message-90725" class="dsq-comment-message"><p>Again, Well put. Hats off to you sir!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-3" id="dsq-comment-91963">
+        <div id="dsq-comment-header-91963" class="dsq-comment-header">
+            <cite id="dsq-cite-91963">
+                <span id="dsq-author-user-91963">CC1980</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-91963" class="dsq-comment-body">
+            <div id="dsq-comment-message-91963" class="dsq-comment-message"><p>LOL, touche!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-3" id="dsq-comment-94853">
+        <div id="dsq-comment-header-94853" class="dsq-comment-header">
+            <cite id="dsq-cite-94853">
+                <span id="dsq-author-user-94853">leviguy1947</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-94853" class="dsq-comment-body">
+            <div id="dsq-comment-message-94853" class="dsq-comment-message"><p>8 years of what?  Which 8 years?  </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-90599">
+        <div id="dsq-comment-header-90599" class="dsq-comment-header">
+            <cite id="dsq-cite-90599">
+                <span id="dsq-author-user-90599">DaisyToo</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90599" class="dsq-comment-body">
+            <div id="dsq-comment-message-90599" class="dsq-comment-message"><p>You&#8217;re not concerned that an integral part of his gayness involves a power riddled grandmother/wife who he&#8217;s absolutely enthralled to?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-2" id="dsq-comment-90833">
+        <div id="dsq-comment-header-90833" class="dsq-comment-header">
+            <cite id="dsq-cite-90833">
+                <span id="dsq-author-user-90833">Churm Rincewind</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90833" class="dsq-comment-body">
+            <div id="dsq-comment-message-90833" class="dsq-comment-message"><p>Agreed. He&#8217;s been a cancer as soon as he ran.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-90203">
+        <div id="dsq-comment-header-90203" class="dsq-comment-header">
+            <cite id="dsq-cite-90203">
+                <span id="dsq-author-user-90203">Rekt</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90203" class="dsq-comment-body">
+            <div id="dsq-comment-message-90203" class="dsq-comment-message"><p>&#8220;THE RUSSIANS DID IT!! HONESTLY!!&#8221;<br />
+I mean&#8230;sure, the political elite will always try to blame someone else than taking responsibility for their errors, but aren&#8217;t the Russians starting to get vexed by all these allegations all the time?<br />
+How long will it take before Russia starts investigating these things themselves to both clear their name and to show what is true and what is false?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-90835">
+        <div id="dsq-comment-header-90835" class="dsq-comment-header">
+            <cite id="dsq-cite-90835">
+                <span id="dsq-author-user-90835">Churm Rincewind</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90835" class="dsq-comment-body">
+            <div id="dsq-comment-message-90835" class="dsq-comment-message"><p>I heard it was done by a Russian hacker called 4chan. Or 4san, to be polite. Hurr durr.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-91655">
+        <div id="dsq-comment-header-91655" class="dsq-comment-header">
+            <cite id="dsq-cite-91655">
+                <span id="dsq-author-user-91655">Zeke McCollum</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-91655" class="dsq-comment-body">
+            <div id="dsq-comment-message-91655" class="dsq-comment-message"><p>They will awaken the Russian Bear at their own expense.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-90265">
+        <div id="dsq-comment-header-90265" class="dsq-comment-header">
+            <cite id="dsq-cite-90265">
+                <span id="dsq-author-user-90265">SixdoublefiveThreetwoone</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90265" class="dsq-comment-body">
+            <div id="dsq-comment-message-90265" class="dsq-comment-message"><p>I&#8217;m bringing back AIDS jokes.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-90329">
+        <div id="dsq-comment-header-90329" class="dsq-comment-header">
+            <cite id="dsq-cite-90329">
+                <span id="dsq-author-user-90329">ytuque</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90329" class="dsq-comment-body">
+            <div id="dsq-comment-message-90329" class="dsq-comment-message"><p>Yet Macron will allow a massive inflow of Islamic immigrants, many of whom would like to throw him off a rooftop.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-90927">
+        <div id="dsq-comment-header-90927" class="dsq-comment-header">
+            <cite id="dsq-cite-90927">
+                <span id="dsq-author-user-90927">Jesse James</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90927" class="dsq-comment-body">
+            <div id="dsq-comment-message-90927" class="dsq-comment-message"><p>Because of his actual sexual orientation.  Not because they won&#8217;t appreciate the handouts, or get out of jail and prosecution post rage gang bangs for free cards handed out like mini-golf advertisements.  &#8220;One Free Gang Bang of a local 9 year old!&#8221; show up now!!!!!  Bin Ladendom&#8217;s Rape Center just opened up in Paris.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-90351">
+        <div id="dsq-comment-header-90351" class="dsq-comment-header">
+            <cite id="dsq-cite-90351">
+                <span id="dsq-author-user-90351">Robin Wallabee</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90351" class="dsq-comment-body">
+            <div id="dsq-comment-message-90351" class="dsq-comment-message"><p>No problem he&#8217;s gay but its gooď to know if he is hiding it sinceif means he is not forthcoming. Pretending to be more vanilla then he is. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-90451">
+        <div id="dsq-comment-header-90451" class="dsq-comment-header">
+            <cite id="dsq-cite-90451">
+                <span id="dsq-author-user-90451">Freidrich</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90451" class="dsq-comment-body">
+            <div id="dsq-comment-message-90451" class="dsq-comment-message"><p>He ordered at least three times from what I could retrieve</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-90471">
+        <div id="dsq-comment-header-90471" class="dsq-comment-header">
+            <cite id="dsq-cite-90471">
+                <span id="dsq-author-user-90471">Jojo le poisson rouge</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90471" class="dsq-comment-body">
+            <div id="dsq-comment-message-90471" class="dsq-comment-message"><p>Loads of lies in this post.</p>
+<p>* Mr Macron is not &#8220;on the mailing list of VestiareGay&#8221;. The two commercial mails sent by &#8220;Vestiaire Gay&#8221; and included in the leaks have been found in the mailbox of François Amorim M***, who is not even a member of Macron&#8217;s team ;</p>
+<p>* the drug order has also been found in the mailbox of the same François Amorim M***. There is no reason to believe that it was ordered by M. Tourret (except the delivery adress, to which François M*** could easily access, since he works as an assistent to M. Tourret). This sad story is by no means related to Macron&#8217;s campaign.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-90605">
+        <div id="dsq-comment-header-90605" class="dsq-comment-header">
+            <cite id="dsq-cite-90605">
+                <span id="dsq-author-user-90605">DaisyToo</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90605" class="dsq-comment-body">
+            <div id="dsq-comment-message-90605" class="dsq-comment-message"><p>Hahahaha! Now explain away the grandmother who attached herself to him when he was 15 and then married him a couple of years later.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-90935">
+        <div id="dsq-comment-header-90935" class="dsq-comment-header">
+            <cite id="dsq-cite-90935">
+                <span id="dsq-author-user-90935">Andyj</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90935" class="dsq-comment-body">
+            <div id="dsq-comment-message-90935" class="dsq-comment-message"><p>Yet the drug order mail by Alain Tourret on Macron&#8217;s email makes Macron an accomplice to the crime.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-91245">
+        <div id="dsq-comment-header-91245" class="dsq-comment-header">
+            <cite id="dsq-cite-91245">
+                <span id="dsq-author-user-91245">Jojo le poisson rouge</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-91245" class="dsq-comment-body">
+            <div id="dsq-comment-message-91245" class="dsq-comment-message"><p>The drug orders originate neither from Tourret&#8217;s mailbox nor from Macron&#8217;s mailbox.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-90477">
+        <div id="dsq-comment-header-90477" class="dsq-comment-header">
+            <cite id="dsq-cite-90477">
+                <a id="dsq-author-user-90477" href="http://madelschmadel.blogspot.com/" target="_blank" rel="nofollow">Maddy Perennity</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90477" class="dsq-comment-body">
+            <div id="dsq-comment-message-90477" class="dsq-comment-message"><p>Of course Macron is gay. Not that there&#8217;s anything wrong with that (duh, we&#8217;re fans of Milo here lol) but it&#8217;s kind of obvious, most obviously the token wifemom. And I&#8217;d watch her &#8211; she&#8217;s ueber creepy. Probably the ideological driver behind his wordview. I bet Macron doesn&#8217;t have an original thought.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-90593">
+        <div id="dsq-comment-header-90593" class="dsq-comment-header">
+            <cite id="dsq-cite-90593">
+                <span id="dsq-author-user-90593">DaisyToo</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90593" class="dsq-comment-body">
+            <div id="dsq-comment-message-90593" class="dsq-comment-message"><p>Exactly.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-98709">
+        <div id="dsq-comment-header-98709" class="dsq-comment-header">
+            <cite id="dsq-cite-98709">
+                <span id="dsq-author-user-98709">Robin Wallabee</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-98709" class="dsq-comment-body">
+            <div id="dsq-comment-message-98709" class="dsq-comment-message"><p>He comes out of nowhere like Obama almost&#8230; groomed and delivered by leftist king-making-machine? And who knows this &#8216;family&#8217; is also not real? She is his handler like the Manchurian candidate&#8217;s real mom was. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-90587">
+        <div id="dsq-comment-header-90587" class="dsq-comment-header">
+            <cite id="dsq-cite-90587">
+                <span id="dsq-author-user-90587">Dante Alighieri</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90587" class="dsq-comment-body">
+            <div id="dsq-comment-message-90587" class="dsq-comment-message"><p>&#8220;vive la (gay) revolution&#8221;</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-90649">
+        <div id="dsq-comment-header-90649" class="dsq-comment-header">
+            <cite id="dsq-cite-90649">
+                <span id="dsq-author-user-90649">Pearlbuck</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90649" class="dsq-comment-body">
+            <div id="dsq-comment-message-90649" class="dsq-comment-message"><p>How could he be gay?  Have you seen the hot, young piece of ass he&#8217;s married to?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-91859">
+        <div id="dsq-comment-header-91859" class="dsq-comment-header">
+            <cite id="dsq-cite-91859">
+                <span id="dsq-author-user-91859">texasken</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-91859" class="dsq-comment-body">
+            <div id="dsq-comment-message-91859" class="dsq-comment-message"><p>I am 73 and while I have a bunch of years on her, I do not find her at all attractive.   28-34 looks good and the early 40&#8217;s yoga types and then the 50&#8217;s interior designers.  But her.  No.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-92015">
+        <div id="dsq-comment-header-92015" class="dsq-comment-header">
+            <cite id="dsq-cite-92015">
+                <span id="dsq-author-user-92015">Pearlbuck</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-92015" class="dsq-comment-body">
+            <div id="dsq-comment-message-92015" class="dsq-comment-message"><p>Yeah,  I was joking.  Because it seems like a classic fag and  hag sitch.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-90919">
+        <div id="dsq-comment-header-90919" class="dsq-comment-header">
+            <cite id="dsq-cite-90919">
+                <span id="dsq-author-user-90919">ActivistAngel</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-90919" class="dsq-comment-body">
+            <div id="dsq-comment-message-90919" class="dsq-comment-message"><p>This will be used to &#8220;nullify&#8221; the vote by the French pedo elites after Le Pen wins.<br />
+It&#8217;s a set up, like the phony polls.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-91961">
+        <div id="dsq-comment-header-91961" class="dsq-comment-header">
+            <cite id="dsq-cite-91961">
+                <span id="dsq-author-user-91961">CC1980</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-91961" class="dsq-comment-body">
+            <div id="dsq-comment-message-91961" class="dsq-comment-message"><p>With all the Muslims in France, he&#8217;ll likely be seen sailing over the side of a tall building some time in the future. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+							</footer> <!-- end article footer -->
+
+						</article> <!-- end article -->						
+
+					</div> <!-- end .cb-main -->
+
+			
+			
+			
+<aside class="cb-sidebar clearfix"><div id="text-3" class="cb-sidebar-widget widget_text">			<div class="textwidget"><!-- Ezoic - Milo Sidebar - sidebar -->
+<div id="ezoic-pub-ad-placeholder-108">
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Milo Skyscraper -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-1403733272957232"
+     data-ad-slot="2982233025"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+</div>
+<!-- End Ezoic - Milo Sidebar - sidebar --></div>
+		</div><div id="cb-popular-posts-2" class="cb-sidebar-widget cb-widget-popular-posts"><h3 class="cb-sidebar-widget-title cb-widget-title">Most Viewed</h3><div class="cb-module-block cb-small-margin">                    <article class="cb-article cb-article-small  cb-separated clearfix">
+                        <div class="cb-mask cb-img-fw">
+                            <a href="https://milo.yiannopoulos.net/2017/05/macron-trump-little-girl/"><img width="100" height="65" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-224-100x65.png" class="attachment-cb-100-65 size-cb-100-65 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-224-100x65.png 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-224-260x170.png 260w" sizes="(max-width: 100px) 100vw, 100px" /></a>                        </div>
+                        <div class="cb-meta cb-article-meta">
+                            <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/macron-trump-little-girl/">Video: Macron Ignores Trump, Trump Responds By Making Him Look Like A Little Girl</a></h4>
+                                                   </div>
+                                           </article>
+                    <article class="cb-article cb-article-small  cb-separated clearfix">
+                        <div class="cb-mask cb-img-fw">
+                            <a href="https://milo.yiannopoulos.net/2017/05/polish-pm-refugees/"><img width="100" height="65" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-231-100x65.png" class="attachment-cb-100-65 size-cb-100-65 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-231-100x65.png 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-231-260x170.png 260w" sizes="(max-width: 100px) 100vw, 100px" /></a>                        </div>
+                        <div class="cb-meta cb-article-meta">
+                            <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/polish-pm-refugees/">Video: Polish PM Makes Cuckmeat Of Leftists Siding With Radical Islam Following Manchester Attack</a></h4>
+                                                   </div>
+                                           </article>
+                    <article class="cb-article cb-article-small  cb-separated clearfix">
+                        <div class="cb-mask cb-img-fw">
+                            <a href="https://milo.yiannopoulos.net/2017/04/students-trolled-obama-100/"><img width="100" height="65" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/04/800-x-419-Canvas-273-100x65.png" class="attachment-cb-100-65 size-cb-100-65 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/04/800-x-419-Canvas-273-100x65.png 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/04/800-x-419-Canvas-273-260x170.png 260w" sizes="(max-width: 100px) 100vw, 100px" /></a>                        </div>
+                        <div class="cb-meta cb-article-meta">
+                            <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/04/students-trolled-obama-100/">Video: Students Trolled Into Trashing Obama&#039;s First 100 Days</a></h4>
+                                                   </div>
+                                           </article>
+                    <article class="cb-article cb-article-small  cb-separated clearfix">
+                        <div class="cb-mask cb-img-fw">
+                            <a href="https://milo.yiannopoulos.net/2017/04/muslim-slurs-london/"><img width="100" height="65" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/04/800-x-419-Canvas-283-100x65.png" class="attachment-cb-100-65 size-cb-100-65 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/04/800-x-419-Canvas-283-100x65.png 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/04/800-x-419-Canvas-283-260x170.png 260w" sizes="(max-width: 100px) 100vw, 100px" /></a>                        </div>
+                        <div class="cb-meta cb-article-meta">
+                            <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/04/muslim-slurs-london/">Watch: Muslim Women Hurl Racist Insults In London, Get Rekt</a></h4>
+                                                   </div>
+                                           </article>
+                    <article class="cb-article cb-article-small  cb-separated clearfix">
+                        <div class="cb-mask cb-img-fw">
+                            <a href="https://milo.yiannopoulos.net/2017/05/le-pen-pupil/"><img width="100" height="65" src="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-40-100x65.png" class="attachment-cb-100-65 size-cb-100-65 wp-post-image" alt="" srcset="https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-40-100x65.png 100w, https://cdn.milo.yiannopoulos.net/wp-content/uploads/2017/05/800-x-419-Canvas-40-260x170.png 260w" sizes="(max-width: 100px) 100vw, 100px" /></a>                        </div>
+                        <div class="cb-meta cb-article-meta">
+                            <h4 class="cb-post-title"><a href="https://milo.yiannopoulos.net/2017/05/le-pen-pupil/">Le Pen To Macron: Don&#039;t Play Games With Me, This Is Not A Teacher-Student Relationship</a></h4>
+                                                   </div>
+                                           </article>
+</div></div><div id="text-5" class="cb-sidebar-widget widget_text">			<div class="textwidget"><div id="contentad320809"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "9cc02c2b-a658-49b9-b2b9-5fd7f992374a",
+            d:  "bWlsby55aWFubm9wb3Vsb3MubmV0",
+            wid: "320809",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad320809").appendChild(s);
+    })(document);
+</script></div>
+		</div></aside>
+
+		</div>
+
+	</div>	
+
+</div> <!-- end #cb-content -->
+
+				</div> <!-- end #cb-container -->
+    			
+    			<footer id="cb-footer">
+
+                    
+                     
+                    
+                        <div class="cb-footer-lower cb-font-header clearfix">
+
+                            <div class="wrap clearfix">
+
+                            	
+                                <div class="cb-footer-links clearfix"><ul id="menu-footer" class="nav cb-footer-nav clearfix"><li id="menu-item-3577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3577"><a href="https://milo.yiannopoulos.net/contact/">Contact Us</a></li>
+<li id="menu-item-3578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3578"><a href="https://yiannopoulos.net">Yiannopoulos.net</a></li>
+</ul></div>
+                                <div class="cb-copyright">MILO - All Rights Reserved<br>
+<a href="https://termsfeed.com/terms-conditions/b75f6af64a1b4f42c4a20a56c9cfa8a6">Terms and Conditions</a></div>
+
+                                
+           					</div>
+
+        				</div>
+    				
+    			</footer> <!-- end footer -->
+
+		</div> <!-- end #cb-outer-container -->
+
+		<span id="cb-overlay"></span>
+        <input type="hidden" id="_zinenonce" name="_zinenonce" value="80ffa6041b" /><input type="hidden" name="_wp_http_referer" value="/2017/05/macron-gay-bitcoin/" />		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85291609-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201721'></script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-content/themes/15zine/library/js/cookie.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-includes/js/comment-reply.min.js?ver=369a396c939febc7c1c35a1a0c2b441a'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbExt = {"cbLb":"on"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-content/themes/15zine/library/js/cb-ext.js?ver=3.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbScripts = {"cbUrl":"https:\/\/milo.yiannopoulos.net\/wp-admin\/admin-ajax.php","cbPostID":"12867","cbFsClass":"cb-embed-fs","cbSlider":["600",true,"7000","on"],"cbALlNonce":"21f56355f0","cbPlURL":"https:\/\/milo.yiannopoulos.net\/wp-content\/plugins","cbShortName":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-content/themes/15zine/library/js/cb-scripts.min.js?ver=3.1.1'></script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-includes/js/wp-embed.min.js?ver=369a396c939febc7c1c35a1a0c2b441a'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.7.5","language":""},"disqusIdentifier":"12867 https:\/\/milo.yiannopoulos.net\/?p=12867","disqusShortname":"milo-yiannopoulos","disqusTitle":"#MacronLeaks Viewers Claim To Find Evidence Macron Is On Gay Mailing List, Aide Buys Hard Drugs With Bitcoin","disqusUrl":"https:\/\/milo.yiannopoulos.net\/2017\/05\/macron-gay-bitcoin\/","options":{"manualSync":false},"postId":"12867"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=369a396c939febc7c1c35a1a0c2b441a'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"milo-yiannopoulos"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.milo.yiannopoulos.net/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=369a396c939febc7c1c35a1a0c2b441a'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201721.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'117158249',post:'12867',tz:'-4',srv:'milo.yiannopoulos.net'} ]);
+	_stq.push([ 'clickTrackerInit', '117158249', '12867' ]);
+</script>
+
+	</body>
+
+</html> <!-- The End. what a ride! -->
